@@ -1,0 +1,14 @@
+<svg width="60" height="12" viewBox="0 0 550 110" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+	<path id="empty" d="M55,5 87,105 2,43 H108 L23,105" fill="#dadada"/>
+	<g id="half">
+		<path d="M55,5 42.653,43 H2 L34.889,66.8952 23,105 55,81.5Z" fill="#ffac2d"/>
+		<path d="M55,5 67.347,43 H108 L75.111,66.8952 87,105 55,81.5Z" fill="#dadada"/>
+	</g>
+</defs>
+<use xlink:href="#half"/>
+<use xlink:href="#empty" x="110"/>
+<use xlink:href="#empty" x="220"/>
+<use xlink:href="#empty" x="330"/>
+<use xlink:href="#empty" x="440"/>
+</svg>

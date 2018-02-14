@@ -1,0 +1,10 @@
+<svg width="60" height="12" viewBox="0 0 550 110" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+	<path id="full" d="M55,5 87,105 2,43 H108 L23,105" fill="#ffac2d"/>
+</defs>
+<use xlink:href="#full"/>
+<use xlink:href="#full" x="110"/>
+<use xlink:href="#full" x="220"/>
+<use xlink:href="#full" x="330"/>
+<use xlink:href="#full" x="440"/>
+</svg>
