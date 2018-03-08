@@ -10,7 +10,7 @@
             <tspan x="41" y="14">片尾请关灯</tspan>
         </text>
         <text id="text-en" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11" font-weight="normal">
-            <tspan x="6" y="13">OFF</tspan>
+            <tspan x="6" y="14">OFF</tspan>
         </text>
         <filter id="filter" x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
